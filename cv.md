@@ -31,8 +31,8 @@ self-realization. In addition, I have some qualities, that, I think,
 1. [https://suzik86.github.io/coursera-projects/gazeta/gazeta.html](https://suzik86.github.io/coursera-projects/gazeta/gazeta.html)
 1. [https://suzik86.github.io/coursera-projects/harvest/harvest.html](https://suzik86.github.io/coursera-projects/harvest/harvest.html)
 ## Experience:
-1. Layout academy: Intensive "AliExpress on JavaScript" [https://suzik86.github.io/lesson1/](https://suzik86.github.io/lesson1/)
-1. Layout academy: Free intensive “First site in 3 days” [https://suzik86.github.io/portfolio/](https://suzik86.github.io/portfolio/)
+* Layout academy: Intensive "AliExpress on JavaScript" [https://suzik86.github.io/lesson1/](https://suzik86.github.io/lesson1/)
+* Layout academy: Free intensive “First site in 3 days” [https://suzik86.github.io/portfolio/](https://suzik86.github.io/portfolio/)
 ## Education:
 * BelHard Educational Center: Adobe Photoshop CS5, Adobe Flash CS4, 
 HTML,CSS (25.11.14-05.02.15)
