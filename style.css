@@ -1,0 +1,17 @@
+body {
+    max-width: 1024px;
+    margin: 0 auto;   
+}
+
+header h1 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.contacts span {
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 20px;
+}
